@@ -1,0 +1,34 @@
+# Answers for Assignment #1 				by Abdulkarim Shwani
+
+
+# assn01-1
+
+grep nad nad*.fasta
+
+# assn01-2
+Use top command , depends about 3.2% - 3.6% - 14.3% CPU is used by top command
+grep MEM top.txt
+# Or
+ps -eo %cpu,%mem,pid,user,args | sort -k3gr | less -S
+
+# assn01-3
+grep 'chloroplast IR' watermelon.gff | sort -k3gr > IR_regions.gff
+
+# assn01-4
+grep -l 'IR' watermelon.gff > IR.gff
+grep -v 'IR' watermelon.gff > not_IR.gff
+wc -l IR.gff
+wc -l not_IR.gff
+
+# assn01-1
+grep -i 'GGATCC'  watermelon_nt/*.fasta | grep -vi 'GAATTC' | wc -l; grep -i 'GGATCC'  watermelon_nt/*.fasta | grep -vi 'GAATTC'
+
+# Yes. 5, so 5 of them have do not have BamHI (GGATCC) site, and LACK an EcoRI (GAATTC) site;
+
+# assn01-6
+cut -f  500-1000 shaver_etal.csv | less -S
+cut -f  500-1000 shaver_etal.csv | less -S > records500-1000.csv
+cut -f  500-1000 shaver_etal.csv | wc -l
+
+# assn07
+sort -k2r fruit.txt | column -t
