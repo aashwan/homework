@@ -1,0 +1,24 @@
+{
+  "arch": "x86_64",
+  "build": "hfd86e86_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "libgcc-ng >=7.3.0",
+    "libstdcxx-ng >=7.3.0"
+  ],
+  "features": "",
+  "fn": "tbb-2020.0-hfd86e86_0.tar.bz2",
+  "license": "Apache 2.0",
+  "md5": "b1141407c77650749af7d1b8b9a2384b",
+  "name": "tbb",
+  "platform": "linux",
+  "sha256": "44aba8995647485338fdc993f1b08644922ade01f5c0ab3243ca5e79db8918fd",
+  "size": 1484343,
+  "subdir": "linux-64",
+  "timestamp": 1580848349460,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/tbb-2020.0-hfd86e86_0.tar.bz2",
+  "version": "2020.0"
+}

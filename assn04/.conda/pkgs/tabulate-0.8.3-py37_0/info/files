@@ -1,0 +1,9 @@
+bin/tabulate
+lib/python3.7/site-packages/__pycache__/tabulate.cpython-37.pyc
+lib/python3.7/site-packages/tabulate-0.8.3-py3.7.egg-info/PKG-INFO
+lib/python3.7/site-packages/tabulate-0.8.3-py3.7.egg-info/SOURCES.txt
+lib/python3.7/site-packages/tabulate-0.8.3-py3.7.egg-info/dependency_links.txt
+lib/python3.7/site-packages/tabulate-0.8.3-py3.7.egg-info/entry_points.txt
+lib/python3.7/site-packages/tabulate-0.8.3-py3.7.egg-info/requires.txt
+lib/python3.7/site-packages/tabulate-0.8.3-py3.7.egg-info/top_level.txt
+lib/python3.7/site-packages/tabulate.py

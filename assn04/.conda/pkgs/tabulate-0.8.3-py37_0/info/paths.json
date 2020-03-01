@@ -1,0 +1,61 @@
+{
+  "paths": [
+    {
+      "_path": "bin/tabulate",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+      "sha256": "bd08f2d855facc5c51e79b4cbc2a83d69e4ccdabf0df5fd0d820334831ba2df6",
+      "size_in_bytes": 240
+    },
+    {
+      "_path": "lib/python3.7/site-packages/__pycache__/tabulate.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "05acf43a61d6e72d2546eb2ce6311021b04fcb73585804c6ed8bf255404f757d",
+      "size_in_bytes": 43714
+    },
+    {
+      "_path": "lib/python3.7/site-packages/tabulate-0.8.3-py3.7.egg-info/PKG-INFO",
+      "path_type": "hardlink",
+      "sha256": "0275581fccdd0065ce2a04c995556c1633754731d8b23206be39483ec89f207c",
+      "size_in_bytes": 28854
+    },
+    {
+      "_path": "lib/python3.7/site-packages/tabulate-0.8.3-py3.7.egg-info/SOURCES.txt",
+      "path_type": "hardlink",
+      "sha256": "9d05ceec71887e9960e9ec98cb6c11ed16121347cfa343b45c88f4115ed01188",
+      "size_in_bytes": 409
+    },
+    {
+      "_path": "lib/python3.7/site-packages/tabulate-0.8.3-py3.7.egg-info/dependency_links.txt",
+      "path_type": "hardlink",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "size_in_bytes": 1
+    },
+    {
+      "_path": "lib/python3.7/site-packages/tabulate-0.8.3-py3.7.egg-info/entry_points.txt",
+      "path_type": "hardlink",
+      "sha256": "47ef08958d111f2d045cdc813de8622fb4d82afeba2d1ca2638595a619eadff2",
+      "size_in_bytes": 45
+    },
+    {
+      "_path": "lib/python3.7/site-packages/tabulate-0.8.3-py3.7.egg-info/requires.txt",
+      "path_type": "hardlink",
+      "sha256": "576a6542f4f231ae790afeb666f435394e713f49f82dc13f2f03496cd4193ddd",
+      "size_in_bytes": 21
+    },
+    {
+      "_path": "lib/python3.7/site-packages/tabulate-0.8.3-py3.7.egg-info/top_level.txt",
+      "path_type": "hardlink",
+      "sha256": "a9faa44366b3ecb4f151e45e3ed5fc8209a1dbde0a7f5111748fb5d5a5aa1595",
+      "size_in_bytes": 9
+    },
+    {
+      "_path": "lib/python3.7/site-packages/tabulate.py",
+      "path_type": "hardlink",
+      "sha256": "b3d9652ed8d38c7428f09e8ebeef18d543ddee1c2def35e657a26cd3328ef905",
+      "size_in_bytes": 59377
+    }
+  ],
+  "paths_version": 1
+}

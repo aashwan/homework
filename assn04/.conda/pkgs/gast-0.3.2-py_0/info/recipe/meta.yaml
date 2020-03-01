@@ -1,0 +1,59 @@
+# This file created by conda-build 3.18.9
+# meta.yaml template originally from:
+# /tmp/build/80754af9/rsync-recipes/gast-0.3.2-on-linux_64, last modified Wed Sep 25 17:47:05 2019
+# ------------------------------------------------
+
+package:
+    name: gast
+    version: 0.3.2
+source:
+    fn: gast-0.3.2.tar.gz
+    sha256: 5c7617f1f6c8b8b426819642b16b9016727ddaecd16af9a07753e537eba8a3a5
+    url: https://pypi.io/packages/source/g/gast/gast-0.3.2.tar.gz
+build:
+    noarch: python
+    number: '0'
+    script: python -m pip install --no-deps --ignore-installed .
+    string: py_0
+requirements:
+    host:
+        - _libgcc_mutex 0.1 main
+        - ca-certificates 2019.8.28 0
+        - certifi 2019.9.11 py27_0
+        - libedit 3.1.20181209 hc058e9b_0
+        - libffi 3.2.1 hd88cf55_4
+        - libgcc-ng 9.1.0 hdf63c60_0
+        - libstdcxx-ng 9.1.0 hdf63c60_0
+        - ncurses 6.1 he6710b0_1
+        - openssl 1.1.1d h7b6447c_1
+        - pip 19.2.3 py27_0
+        - python 2.7.16 h9bab390_7
+        - readline 7.0 h7b6447c_5
+        - setuptools 41.2.0 py27_0
+        - sqlite 3.29.0 h7b6447c_0
+        - tk 8.6.8 hbc83047_0
+        - wheel 0.33.6 py27_0
+        - zlib 1.2.11 h7b6447c_3
+    run:
+        - python
+test:
+    imports:
+        - gast
+about:
+    description: 'GAST provides a compatibility layer between the AST of various Python
+
+        versions, as produced by ast.parse from the standard ast module.
+
+        '
+    dev_url: https://github.com/serge-sans-paille/gast
+    home: https://github.com/serge-sans-paille/gast
+    license: BSD-3-Clause
+    license_family: BSD
+    license_file: /tmp/build/80754af9/rsync-recipes/gast-0.3.2-on-linux_64/LICENSE
+    summary: A generic AST to represent Python2 and Python3's Abstract Syntax Tree(AST).
+extra:
+    copy_test_source_files: true
+    final: true
+    recipe-maintainers:
+        - CurtLH
+        - martinRenou

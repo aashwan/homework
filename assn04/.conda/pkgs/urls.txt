@@ -1,0 +1,7 @@
+https://repo.anaconda.com/pkgs/main/linux-64/absl-py-0.8.1-py37_0.tar.bz2
+https://repo.anaconda.com/pkgs/main/linux-64/conda-4.8.2-py37_0.tar.bz2
+https://repo.anaconda.com/pkgs/main/linux-64/certifi-2019.3.9-py37_0.tar.bz2
+https://repo.anaconda.com/pkgs/main/linux-64/tabulate-0.8.3-py37_0.tar.bz2
+https://repo.anaconda.com/pkgs/main/noarch/gast-0.3.2-py_0.tar.bz2
+https://repo.anaconda.com/pkgs/main/linux-64/tbb-2020.0-hfd86e86_0.tar.bz2
+https://repo.anaconda.com/pkgs/main/linux-64/tensorboard-1.13.1-py37hf484d3e_0.tar.bz2

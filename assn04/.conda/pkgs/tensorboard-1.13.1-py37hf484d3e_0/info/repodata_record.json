@@ -1,0 +1,33 @@
+{
+  "arch": "x86_64",
+  "build": "py37hf484d3e_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "absl-py >=0.4",
+    "grpcio >=1.6.3",
+    "libgcc-ng >=7.3.0",
+    "libstdcxx-ng >=7.3.0",
+    "markdown >=2.6.8",
+    "numpy >=1.12.0",
+    "protobuf >=3.6.0",
+    "python >=3.7,<3.8.0a0",
+    "six >=1.10.0",
+    "werkzeug >=0.11.15"
+  ],
+  "features": "",
+  "fn": "tensorboard-1.13.1-py37hf484d3e_0.tar.bz2",
+  "license": "Apache 2.0",
+  "license_family": "Apache",
+  "md5": "59d5fc9064fd438c8e59a0d1915cec16",
+  "name": "tensorboard",
+  "platform": "linux",
+  "sha256": "d672b435f997ed52ac945a48f6dce330f68e79d86ebed973d3a9ab0680ad1e8a",
+  "size": 3429950,
+  "subdir": "linux-64",
+  "timestamp": 1554309009398,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/tensorboard-1.13.1-py37hf484d3e_0.tar.bz2",
+  "version": "1.13.1"
+}

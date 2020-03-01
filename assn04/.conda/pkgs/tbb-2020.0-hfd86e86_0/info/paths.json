@@ -1,0 +1,27 @@
+{
+  "paths": [
+    {
+      "_path": "lib/libtbb.so.2",
+      "file_mode": "binary",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/tmp/build/80754af9/tbb_1580848227980/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+      "sha256": "0ced28b52fe85b173f602aa4b554ec4c7bdd7d2b10442bb04e5c68b5366d566d",
+      "size_in_bytes": 2779456
+    },
+    {
+      "_path": "lib/libtbbmalloc.so.2",
+      "file_mode": "binary",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/tmp/build/80754af9/tbb_1580848227980/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+      "sha256": "4c619171f5c6b9b451f2a87328695345e2fdb3eadefcf296e61098dc8e5c59d6",
+      "size_in_bytes": 1074568
+    },
+    {
+      "_path": "lib/libtbbmalloc_proxy.so.2",
+      "path_type": "hardlink",
+      "sha256": "e866493403887676e6bd33d845a4a1a81bcc247f0ed1ddc5f30abf7cafb8d492",
+      "size_in_bytes": 128384
+    }
+  ],
+  "paths_version": 1
+}

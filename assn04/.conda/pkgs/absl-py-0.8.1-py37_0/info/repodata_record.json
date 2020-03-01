@@ -1,0 +1,25 @@
+{
+  "arch": "x86_64",
+  "build": "py37_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.7,<3.8.0a0",
+    "six"
+  ],
+  "features": "",
+  "fn": "absl-py-0.8.1-py37_0.tar.bz2",
+  "license": "Apache 2.0",
+  "license_family": "Apache",
+  "md5": "41922072174ecc5289bd2ce40defd7bb",
+  "name": "absl-py",
+  "platform": "linux",
+  "sha256": "15a54536c3b03b139b2e27f31b8959936b880d00754ce054a826c86fd5e61f4e",
+  "size": 165194,
+  "subdir": "linux-64",
+  "timestamp": 1573224871352,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/absl-py-0.8.1-py37_0.tar.bz2",
+  "version": "0.8.1"
+}

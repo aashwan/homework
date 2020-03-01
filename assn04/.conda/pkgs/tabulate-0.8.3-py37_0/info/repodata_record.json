@@ -1,0 +1,24 @@
+{
+  "arch": "x86_64",
+  "build": "py37_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.7,<3.8.0a0"
+  ],
+  "features": "",
+  "fn": "tabulate-0.8.3-py37_0.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "md5": "c3ca4bce5d595a8b4ab36c4b1f0a19c2",
+  "name": "tabulate",
+  "platform": "linux",
+  "sha256": "f5ee5c3df0563adfd48567f82f9f59359ff4b7f005e1e0054de2a83a8f09975f",
+  "size": 39497,
+  "subdir": "linux-64",
+  "timestamp": 1552403483671,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/tabulate-0.8.3-py37_0.tar.bz2",
+  "version": "0.8.3"
+}

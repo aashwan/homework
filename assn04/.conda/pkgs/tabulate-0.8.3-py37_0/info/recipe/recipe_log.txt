@@ -1,0 +1,156 @@
+commit 57b996d275580ae8ac91c784ab9223af03591606
+Author: Michael Sarahan <msarahan@gmail.com>
+Date:   Mon Feb 26 09:20:50 2018 -0600
+
+    remove noarch; build->host
+
+commit 97f4e5f5fcc3302ef247b8c7d7de7acdedabda09
+Merge: 47c43cd 7d1da95
+Author: Filipe <ocefpaf@gmail.com>
+Date:   Fri Jan 25 21:07:26 2019 -0200
+
+    Merge pull request #8 from regro-cf-autotick-bot/0.8.3
+    
+    tabulate v0.8.3
+
+commit 7d1da95c332bf9d357cb60d6af71dcb5c275db10
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Fri Jan 25 22:24:38 2019 +0000
+
+    MNT: Re-rendered with conda-build 3.17.7, conda-smithy 3.2.9, and conda-forge-pinning 2019.01.21
+
+commit 31903bb60ba64b3a220b943d35d66259984dd25e
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Fri Jan 25 22:24:34 2019 +0000
+
+    updated v0.8.3
+
+commit 47c43cda3d9f6a6fa10d2be5188cfba1eb0620de
+Author: Travis CI User <travis@example.org>
+Date:   Sat Aug 4 17:11:21 2018 +0000
+
+    [ci skip] [skip ci] Update anaconda token
+
+commit 9f56a1004368ce43215fac48eea25f3935bfe1b3
+Merge: 4a7e175 bafb185
+Author: Joshua Adelman <synapticarbors@users.noreply.github.com>
+Date:   Mon Jan 22 17:58:11 2018 -0500
+
+    Merge pull request #7 from cbrueffer/tabulate-0.8.2
+    
+    Update tabulate to 0.8.2.
+
+commit bafb18548b1c09f7a4947ca71fc4a00c4fe160f5
+Author: Christian Brueffer <christian@brueffer.io>
+Date:   Mon Jan 22 23:43:28 2018 +0100
+
+    Update tabulate to 0.8.2.
+
+commit 4a7e175109552e77a48fce70f48f514eac7d4515
+Merge: fb4f1b5 830b157
+Author: Joshua Adelman <synapticarbors@users.noreply.github.com>
+Date:   Mon Oct 2 16:49:52 2017 -0400
+
+    Merge pull request #6 from synapticarbors/v0.8.1
+    
+    Update to v0.8.1
+
+commit 830b157407a7fd4bcea7bc23eb81a66d425f5e42
+Author: Joshua L. Adelman <joshua.adelman@gmail.com>
+Date:   Mon Oct 2 16:45:12 2017 -0400
+
+    MNT: Re-rendered with conda-smithy 2.4.2
+
+commit 66c0d54cda751adf8704fe55baaf7d4330a2b995
+Author: Joshua L. Adelman <joshua.adelman@gmail.com>
+Date:   Mon Oct 2 16:44:20 2017 -0400
+
+    Update to 0.8.1 and convert to noarch python
+
+commit fb4f1b572abfcaf076a48f393df0ae81fc88d67d
+Author: Travis-CI on github.com/conda-forge/staged-recipes <conda-forge@googlegroups.com>
+Date:   Sat Aug 26 19:34:51 2017 +0000
+
+    [ci skip] [skip ci] Update anaconda token
+
+commit c4045d0acbb100469a837fcae438dcd2f11b4c82
+Merge: 3e45f43 67b9646
+Author: jakirkham <jakirkham@gmail.com>
+Date:   Tue Apr 4 00:36:09 2017 -0400
+
+    Merge pull request #5 from conda-forge-admin/feedstock_rerender_master
+    
+    MNT: Re-render the feedstock [ci skip]
+
+commit 67b9646f95f8dd2b9bb1bcde8e8352aec44287e0
+Author: conda-forge-admin <pelson.pub+conda-forge@gmail.com>
+Date:   Tue Apr 4 01:37:23 2017 +0000
+
+    MNT: Updated the feedstock for conda-smithy version 2.2.2.
+
+commit 3e45f43a6c0b2dec3e18605208a7383d569bcdc3
+Merge: fb7dd47 872ba99
+Author: Joshua Adelman <synapticarbors@users.noreply.github.com>
+Date:   Tue Jan 10 08:10:50 2017 -0500
+
+    Merge pull request #4 from jakirkham/re-render__master__1.7.0
+    
+    Re-render with 1.7.0 and add Python 3.6
+
+commit 872ba9920bb002fa7c922603e23dd227668a8bda
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Mon Jan 9 20:10:30 2017 -0500
+
+    MNT: Re-rendered with conda-smithy 1.7.0
+    
+    Also re-render to provide Python 3.6 support.
+
+commit fb7dd476699a509db07a7e253f2f855ca17b21e4
+Merge: 697ac7e 25c0c46
+Author: jakirkham <jakirkham@gmail.com>
+Date:   Wed Nov 23 12:32:47 2016 -0500
+
+    Merge pull request #3 from synapticarbors/v0.7.7
+    
+    V0.7.7
+
+commit 25c0c4699d52de450c03e3fc209b292eb2a2a997
+Author: Joshua L. Adelman <joshua.adelman@gmail.com>
+Date:   Tue Nov 22 20:03:35 2016 -0500
+
+    Update reciple for version 0.7.7
+
+commit 3adf14272fe3e71823026de4c160e7ae196c5ce0
+Author: Joshua L. Adelman <joshua.adelman@gmail.com>
+Date:   Tue Nov 22 19:54:00 2016 -0500
+
+    MNT: Re-rendered with conda-smithy 1.5.3
+
+commit 697ac7ea7f6800d65b69c54ee2b6856bea8f47a0
+Merge: e66f7c5 cbe45fe
+Author: jakirkham <jakirkham@gmail.com>
+Date:   Mon May 16 23:49:56 2016 -0400
+
+    Merge pull request #1 from conda-forge-admin/feedstock_rerender_master
+    
+    MNT: Re-render the feedstock
+
+commit cbe45fe0e9a8a8fa45c11b73a217c1a10c97c122
+Author: conda-forge-admin <pelson.pub+conda-forge@gmail.com>
+Date:   Tue May 17 03:44:45 2016 +0000
+
+    MNT: Updated the feedstock for conda-smithy version 0.10.3.
+    
+    [ci skip]
+
+commit e66f7c55dfe75033ad88c406a72b9244e5bfefe8
+Author: Travis-CI on github.com/conda-forge/staged-recipes <conda-forge@googlegroups.com>
+Date:   Sun May 1 20:45:35 2016 +0000
+
+    Re-render the feedstock after CI registration.
+
+commit c8e8bd2290609a45c5f21e8bfa20e9b06fc2ead0
+Author: Travis-CI on github.com/conda-forge/staged-recipes <conda-forge@googlegroups.com>
+Date:   Sun May 1 20:44:43 2016 +0000
+
+    Initial commit of the tabulate feedstock.

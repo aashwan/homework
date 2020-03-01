@@ -1,0 +1,1 @@
+["tensorflow-estimator 1.13.0.*", "tensorflow-base >=1.13.0,<1.14.0a0"]

@@ -1,0 +1,3 @@
+lib/libtbb.so.2
+lib/libtbbmalloc.so.2
+lib/libtbbmalloc_proxy.so.2

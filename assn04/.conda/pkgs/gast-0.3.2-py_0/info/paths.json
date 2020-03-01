@@ -1,0 +1,71 @@
+{
+  "paths": [
+    {
+      "_path": "site-packages/gast-0.3.2.dist-info/INSTALLER",
+      "path_type": "hardlink",
+      "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+      "size_in_bytes": 5
+    },
+    {
+      "_path": "site-packages/gast-0.3.2.dist-info/LICENSE",
+      "path_type": "hardlink",
+      "sha256": "6a04bbabd9b48bea6bf7c0bd3f3a062e1476b3c403a746448fd69b0d902e148f",
+      "size_in_bytes": 1490
+    },
+    {
+      "_path": "site-packages/gast-0.3.2.dist-info/METADATA",
+      "path_type": "hardlink",
+      "sha256": "1b00a4982c4db56b049c027fe250dc78224a4bd697ae70023da58b9715fcadde",
+      "size_in_bytes": 1121
+    },
+    {
+      "_path": "site-packages/gast-0.3.2.dist-info/RECORD",
+      "path_type": "hardlink",
+      "sha256": "feb165b823e8c1d2327e579e472f0a652b4214a17d2fa62c58589f539587d564",
+      "size_in_bytes": 903
+    },
+    {
+      "_path": "site-packages/gast-0.3.2.dist-info/WHEEL",
+      "path_type": "hardlink",
+      "sha256": "23bf6aa29589ebd9794fac196b2b7d55438c79c19918fceedbf89c6d16168e92",
+      "size_in_bytes": 93
+    },
+    {
+      "_path": "site-packages/gast-0.3.2.dist-info/top_level.txt",
+      "path_type": "hardlink",
+      "sha256": "3996390ef0cd01fd7bf92301475a573d5ee227222947eeac14080e7c573f573f",
+      "size_in_bytes": 5
+    },
+    {
+      "_path": "site-packages/gast/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "829715cb50a6f6513093c7de13db3129221538f77586eba4222dba0565053b2b",
+      "size_in_bytes": 84
+    },
+    {
+      "_path": "site-packages/gast/ast2.py",
+      "path_type": "hardlink",
+      "sha256": "f49d5867bb6af62fde41ed782c3e92eb45e1ab65caee783665d8da8eee4c38dc",
+      "size_in_bytes": 12764
+    },
+    {
+      "_path": "site-packages/gast/ast3.py",
+      "path_type": "hardlink",
+      "sha256": "5e05c6ad918e6bc075bf28ee41d0777b586c60ba17c49e0a03815a1acfd93b48",
+      "size_in_bytes": 12714
+    },
+    {
+      "_path": "site-packages/gast/astn.py",
+      "path_type": "hardlink",
+      "sha256": "38508a28f5c682fafe77b8accd231f684200d58635c0e7fcc388ff6ac0ceef3f",
+      "size_in_bytes": 999
+    },
+    {
+      "_path": "site-packages/gast/gast.py",
+      "path_type": "hardlink",
+      "sha256": "6223015dd7cfbaaf1980f9b588897ff96201580fcf12c5d77544467b07b850f0",
+      "size_in_bytes": 14656
+    }
+  ],
+  "paths_version": 1
+}
