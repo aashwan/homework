@@ -17,11 +17,19 @@ C_number = DNA_upper.count('C')
 G_number = DNA_upper.count('G')
 #print("Numbers of G = " + str(G_number))
 A_content = (A_number/dna_length) * 100
-print("Percent A = " + str(A_content) + " %")
+print("Percent A = " + str(round(A_content,2)) + " %")
 T_content = (T_number/dna_length) * 100
-print("Percent T = " + str(T_content) + " %")
+print("Percent T = " + str(round(T_content,2)) + " %")
 C_content = (C_number/dna_length) * 100
-print("Percent C = " + str(C_content) + " %")
+print("Percent C = " + str(round(C_content,2)) + " %")
 G_content = (G_number/dna_length) * 100
-print("Percent G = " + str(G_content) + " %")
+print("Percent G = " + str(round(G_content,2)) + " %")
 
+#After running the above script; we get the following result;
+#ACTGTAcGTGCAcTGaTC
+#The Uppercase DNA sequence is as follow: 
+#ACTGTACGTGCACTGATC
+#Percent A = 22.22 %
+#Percent T = 27.78 %
+#Percent C = 27.78 %
+#Percent G = 22.22 %
